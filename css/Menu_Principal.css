@@ -1,0 +1,31 @@
+#menu ol>li {
+	display: inline-block;	
+	font-size: 20px;
+    padding: 30px 15px 30px 15px;			
+}
+#menu ol>li:hover{
+	transition: 0.8s;
+	background: #8181F7
+}
+#menu ol>li>a{
+	color: #FFFFFF;
+	transition: 1s;
+	text-decoration: none;
+	padding: 30px 0px;	
+}
+#menu ol>li:active{
+	background: #333;
+}
+#menu ol>li>a:hover:not(.active){
+	color: #0C3714
+}
+.active {
+    background-color: #4CAF50;
+}
+#menu ol{
+	overflow: hidden;
+	background-color: #0493BB;
+	margin-top: -50px;
+
+}
+
