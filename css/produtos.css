@@ -1,6 +1,21 @@
 .Mercadoria{
-	margin-left: 1%;
-	margin-top: 1%;
-	margin-bottom: 1%;
+	margin: 1%;
 	display: inline-block;
+	border-radius: 3%;
+	border:1px solid;	
+}
+.Mercadoria:hover{
+	border:1px solid green;
+	background: #ddd;
+}
+.div_master_produto{
+	border:1px solid;
+}
+.foto_produto img{
+	width: 150px;
+	height: 150px;
+}
+#produto{
+	text-align: 30px;
+}
 	

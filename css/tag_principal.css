@@ -10,27 +10,7 @@ h1{ font-size: 50px;
 	
 }
 p{
-	font-family: "Areal", ;
-}
-
-.Mercadoria{
-	margin: 1%;
-	display: inline-block;
-	border-radius: 3%;
-	border:1px solid;
-	
-}
-.Mercadoria:hover{
-	border:1px solid green;
-	background: #ddd;
-}
-.div_master_produto{
-	border:1px solid;
-}
-
-#produto{
-	text-align: 30px;
-
+	font-family: "Areal";
 }
 
 #div_master{

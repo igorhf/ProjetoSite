@@ -1,0 +1,23 @@
+.div_end{
+	background-color: #122116;
+}
+.div_end p{
+	font-size: 20px;
+	color: #FAF7F7;
+}
+.div_end a{
+	text-decoration: none;
+	color: #FAF7F7;
+}
+.div_end div{
+	background-color: #122116;
+	display: inline-block;
+	margin-left: 30px;
+}
+.rede_social img{
+	width: 50px;
+	height: 50px;
+}
+.contato{
+	margin-left: 10%;
+}
