@@ -1,6 +1,7 @@
 .lbox{
 	visibility: hidden;
 	opacity: 0;
+	position: absolute;
 }
 .lbox:target{
 	opacity: 1;
@@ -12,9 +13,9 @@
 	background: rgba(10,10,10,.7);
 	position: fixed;
 }
-.lbox_img{
+.lbox_img img{
 	width: 1000px;
-	margin: 150px auto;
+	margin: 120px 200px 0px 200px;
 }
 .btn{
 	color: #fff;

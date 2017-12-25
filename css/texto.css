@@ -1,0 +1,38 @@
+ @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+ @import url('https://fonts.googleapis.com/css?family=Rubik|Source+Sans+Pro');
+
+ .div_texto p{
+ 	font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Rubik', sans-serif;
+ }
+ .div_texto{
+ 	margin: 0px 300px 0px 150px;
+ 	border-top: 1px solid; 	
+ }
+ .span_color{
+ 	color:red;
+ }
+ .texto_titulo{
+ 	text-decoration:underline;
+ 	text-transform:uppercase;
+    font-weight: bold;
+    font-size: 20px;
+ }
+ .div_texto img{
+ 	width: 30px;
+ 	height: 30px; 	
+ }
+ .noticia_importante{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    color: red;
+    text-align: center;    
+    border: 1px solid green;
+    margin-left: 15%;
+    margin-right: 15%;
+    box-shadow: 10px 10px 10px 1px #ccc;
+ }
+ .negrito{
+    font-weight: bold;    
+ }
