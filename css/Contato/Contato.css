@@ -1,0 +1,16 @@
+.div_contato label{
+	font-weight: bold;
+	font-size: 25px;
+	font-family: ariel;
+	text-decoration: underline;
+}
+.div_contato p{
+	font-size: 20px;
+}
+.div_contato span{
+	font-weight: bold;
+	font-size: 20px;
+}
+.div_contato{
+	margin-left:10%;
+}

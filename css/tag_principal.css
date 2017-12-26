@@ -7,18 +7,12 @@ h1{ font-size: 50px;
 	background-color: #FAF7F7;
 	text-align: center;
 	text-shadow: 0 0 20px #ff005b;
-	margin-bottom: 50px;
-		
+	margin-bottom: 50px;		
 }
-p{
-	font-family: "Arial";
-}
-
 #div_master{
 	position: relative;
 	margin-left: 10%;
-	margin-right: 10%;		
-	box-shadow: 2px 2px 2px 2px;
+	margin-right: 10%;	
 	-webkit-box-shadow: -2px 0px 200px 102px rgba(0,0,0,0.75);
     -moz-box-shadow: -2px 0px 200px 102px rgba(0,0,0,0.75);
     box-shadow: -2px 0px 200px 102px rgba(0,0,0,0.75);

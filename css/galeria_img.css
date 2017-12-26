@@ -16,6 +16,7 @@
 .lbox_img img{
 	width: 1000px;
 	margin: 120px 200px 0px 200px;
+	position: absolute;
 }
 .btn{
 	color: #fff;
