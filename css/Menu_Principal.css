@@ -4,7 +4,7 @@
     padding: 30px 5px 30px 5px;			
 }
 #menu ol>li:hover{
-	transition: 0.8s;
+	transition: 0.5s;
 	background: #8181F7
 }
 #menu ol>li>a{
@@ -14,13 +14,11 @@
 	padding: 30px 5px 30px 5px;	
 }
 #menu ol>li:active{
-	background: #333;
+	background: #ddd;
+	border: 1px solid orange;
 }
-#menu ol>li>a:hover:not(.active){
+#menu ol>li>a:hover{
 	color: #0C3714
-}
-.active {
-    background-color: #4CAF50;
 }
 #menu ol{
 	overflow: hidden;
