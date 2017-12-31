@@ -33,6 +33,7 @@ figcaption>p{
 .div_master_produto{
 	margin-left: 10%;
 	margin-right: 10%;
+	position: relative;
 }
 .divproduto{
 	border: 1px groove;
